@@ -1,0 +1,57 @@
+*{font-family: sans-serif;}
+
+/* En alttaki bilgi kısmı BAŞLA */
+footer {
+  position: absolute;
+  bottom: auto;
+  left: 0;
+  right: 0;
+  background: #ff8c00;
+  height: auto;
+  width: 99vw;
+  font-family: "Open Sans";
+  padding-top: 30px;
+  color: #fff;
+}
+
+.footer-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.footer-content h3 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  text-transform: capitalize;
+  line-height: 3rem;
+}
+
+.footer-content p {
+  max-width: 500px;
+  margin: 10px auto;
+  line-height: 28px;
+  font-size: 14px;
+}
+
+.footer-bottom {
+  background: #884b00;
+  width: 99vw;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.footer-bottom p {
+  font-size: 14px;
+  word-spacing: 2px;
+  text-transform: capitalize;
+}
+
+.footer-bottom span {
+  text-transform: uppercase;
+  opacity: .4;
+  font-weight: 200;
+}
+/* En alttaki bilgi kısmı BİTİŞ */
