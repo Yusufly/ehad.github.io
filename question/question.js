@@ -175,19 +175,19 @@ choice4: "Mor",
 answer: 3
 },
 {
-    question: "DNA onarımı hakkındaki bilimsel çalışmasıyla 2015 Nobel Kimya Ödülünü almaya hak kazanan Türk bilim insanı kimdir?",
-choice1: "Aziz Sancar",
+     question: "Fatih Sultan Mehmet’in babası kimdir?",
+choice1: "2. Murat",
 choice2: "",
 choice3: "",
 choice4: "",
 answer: 0
 },
 {
-    question: "İtalya'da 14. Yüzyılın ikinci yarısında başlayan 'Yeniden Doğuş' anlamına gelen kavram hangisidir?",
-choice1: "Rönesans",
-choice2: "",
-choice3: "",
-choice4: "",
+     question: "Hangisi periyodik tabloda bulunan bir element değildir?",
+choice1: "H2O",
+choice2: "Ca",
+choice3: "He",
+choice4: "O",
 answer: 0
 },
 {
@@ -231,11 +231,251 @@ choice4: "Gaziantep",
 answer: 3
 },
 {
-    question: "Hangi ülkenin iki tane başkenti vardır",
+    question: "Hangi ülkenin iki tane başkenti vardır?",
 choice1: "",
 choice2: "",
 choice3: "Güney Afrika",
 choice4: "",
 answer: 2
 },
-]
+// İngilizce sorular //
+{
+    question: "He __ tennis every Sunday.",
+    choice1: "plays",
+    choice2: "play",
+    choice3: "is playing",
+    choice4: "played",
+    answer: 0
+},
+            {
+            question: "__ you ever been to London?",
+    choice1: "Did",
+    choice2: "Have",
+    choice3: "Do",
+    choice4: "Are",
+    answer: 1
+},
+            {
+            question: "The train __ at 7:30 AM.",
+    choice1: "leaves",
+    choice2: "leave",
+    choice3: "is leaving",
+    choice4: "left",
+    answer: 0
+},
+            {
+            question: "She __ English for five years.",
+    choice1: "studies",
+    choice2: "study",
+    choice3: "is studying",
+    choice4: "studied",
+    answer: 0
+},
+            {
+            question: "__ they having dinner right now?",
+    choice1: "Are",
+    choice2: "Do",
+    choice3: "Did",
+    choice4: "Have",
+    answer: 0
+},
+            {
+            question: "I can't find my keys. I think I __ them.",
+    choice1: "lose",
+    choice2: "lost",
+    choice3: "am losing",
+    choice4: "have lost",
+    answer: 3
+},
+            {
+               question: "My sister __ a cake for my birthday.",
+    choice1: "bakes",
+    choice2: "bake",
+    choice3: "is baking",
+    choice4: "baked",
+    answer: 0
+},
+{
+    question: "We __ a great time at the party last night.",
+choice1: "have",
+choice2: "had",
+choice3: "are having",
+choice4: "have had",
+answer: 1
+},
+{
+    question: "__ you ever hear this song before?",
+choice1: "Did",
+choice2: "Have",
+choice3: "Do",
+choice4: "Are",
+answer: 0
+},
+{
+    question: "The students __ their homework.",
+choice1: "do",
+choice2: "are doing",
+choice3: "did",
+choice4: "have done",
+answer: 1
+},
+{
+    question: "The cat __ under the table.",
+choice1: "sleeps",
+choice2: "sleep",
+choice3: "is sleeping",
+choice4: "slept",
+answer: 2
+},
+{
+    question: "He __ a new car next month.",
+choice1: "buys",
+choice2: "buy",
+choice3: "is buying",
+choice4: "bought",
+answer: 2
+},
+{
+    question: "TWe have __ each other since high.",
+choice1: "known",
+choice2: "know",
+choice3: "knowing",
+choice4: "have known",
+answer: 3
+},
+{
+    question: "They __ for the bus when it started raining.",
+choice1: "wait",
+choice2: "waiting",
+choice3: "waited",
+choice4: "are waiting",
+answer: 2
+},
+{
+    question: "She __ the guitar very well.",
+choice1: "plays",
+choice2: "play",
+choice3: "is playing",
+choice4: "played",
+answer: 0
+},
+{
+    question: "__ she going to the party tonight?",
+choice1: "Does",
+choice2: "Did",
+choice3: "Is",
+choice4: "Has",
+answer: 2
+},
+{
+    question: "I __ the movie last night and it was fantastic.",
+choice1: "watch",
+choice2: "watched",
+choice3: "am watching",
+choice4: "have watched",
+answer: 1
+},
+{
+    question: "She always __ her breakfast before work.",
+choice1: "eats",
+choice2: "eat",
+choice3: "is eating",
+choice4: "ate",
+answer: 0
+},
+{
+    question: "__ you finished your homework yet?",
+choice1: "Did",
+choice2: "Have",
+choice3: "Do",
+choice4: "Are",
+answer: 1
+},
+{
+    question: "They were __ soccer in the park when it started to rain.",
+choice1: "playing",
+choice2: "play",
+choice3: "played",
+choice4: "plays",
+answer: 0
+},
+{
+    question: "I __ to the gym three times a week.",
+choice1: "go",
+choice2: "goes",
+choice3: "am going",
+choice4: "went",
+answer: 0
+},
+{
+    question: "She __ a picture of the sunset.",
+choice1: "takes",
+choice2: "took",
+choice3: "is taking",
+choice4: "take",
+answer: 2
+},
+{
+    question: "__ they any questions?",
+choice1: "Do",
+choice2: "Did",
+choice3: "Are",
+choice4: "Have",
+answer: 3
+},
+{
+    question: "The teacher __ the students a new lesson.",
+choice1: "teaches",
+choice2: "taught",
+choice3: "is teaching",
+choice4: "has taught",
+answer: 0
+},
+{
+    question: "We __ for a walk in the park yesterday.",
+choice1: "go",
+choice2: "went",
+choice3: "are going",
+choice4: "have gone",
+answer: 1
+},
+{
+    question: "They __ their friends at the mall last Saturday.",
+choice1: "meet",
+choice2: "met",
+choice3: "are meeting",
+choice4: "have met",
+answer: 1
+},
+{
+    question: "I __ for a job for months, but no luck so far.",
+choice1: "look",
+choice2: "looked",
+choice3: "am looking",
+choice4: "have looked",
+answer: 2
+},
+{
+    question: "We usually __ dinner together as a family.",
+choice1: "have",
+choice2: "has",
+choice3: "had",
+choice4: "having",
+answer: 0
+},
+{
+    question: "She __ in the library when I saw her.",
+choice1: "studies",
+choice2: "studied",
+choice3: "is studying",
+choice4: "was studying",
+answer: 3
+},
+{
+    question: "__ you like some coffee?",
+choice1: "Do",
+choice2: "Did",
+choice3: "Are",
+choice4: "Have",
+answer: 0
+},]
