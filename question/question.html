@@ -42,7 +42,7 @@
             <h4>3. Her doğru cevabınızda doğruluk oranınız artacaktır.</h4>
             <h4>4. Sınavdan çıkamazsınız.</h4>
             <div id="button">
-                <button id="exit">Çıkış</button>
+                <button id="exit" onclick="window.location.href='/anasayfa.html';">Çıkış</button>
                 <button id="continue">Devam et</button>
             </div>
         </div>
@@ -83,11 +83,10 @@
         <!--   Result Section  -->
         <div id="result">
             <i class="fas fa-trophy"></i>
-            <h6>Sınavı bitirdin!</h6>
+            <h6>Sınavı bitirdin! Doğru sayını SS alıp kullanıcı adını da yazarak mail adresimizden göndermeyi unutma!</h6>
             <h6 id="points">4'de 10 yaptın!</h6>
             <div id="score"></div>
-            <button id="quit">Sınavdan Çık</button>
-            <button id="startAgain">Tekrar Başla</button>
+            <button id="quit" onclick="window.location.href='/anasayfa.html';">Sınavdan Çık</button>
         </div>
     </div>
     <script src="question.js"></script>

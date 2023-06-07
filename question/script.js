@@ -99,7 +99,7 @@ continueBtn.addEventListener("click", () => {
         removeActive.classList.remove("active");
     })
 
-    total_correct.innerHTML = `${MCQS.length} Soruda ${correct} Doğru Yaptın`;
+    total_correct.innerHTML = `${MCQS.length} Soruda ${correct} Doğru Yaptın!`;
 });
 
 choice_que.forEach((choices, choiceNo) => {
