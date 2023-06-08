@@ -215,7 +215,7 @@ choice4: "Kemal Tahir",
 answer: 0
 },
 {
-    question: "Yazıyı icat exen ilk çağ uygarlığı hangisidir?",
+    question: "Yazıyı icat eden ilk çağ uygarlığı hangisidir?",
 choice1: "Hititler",
 choice2: "Lidyalılar",
 choice3: "Babiller",
