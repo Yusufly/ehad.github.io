@@ -64,7 +64,7 @@
     position: absolute;
     width: 26px;
     height: 26px;
-    background-color: #ffb700;
+    background-color: #ffd772;
     transform: rotate(45deg);
     top: 50px;
     left: -13px;
@@ -202,7 +202,7 @@
   }
   
   .contact-info .title {
-    color: #ffa200;
+    color: #d98900;
   }
   
   .text {

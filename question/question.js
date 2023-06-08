@@ -48,26 +48,26 @@ let MCQS = [{
 },
             {
                question: "Simgesi (Ca) olan elementin adı nedir?",
-    choice1: "",
-    choice2: "",
-    choice3: "",
+    choice1: "Bakır",
+    choice2: "Hidrojen",
+    choice3: "Lityum",
     choice4: "Kalsiyum",
     answer: 3
 },
 {
     question: "Dünyanın ilk kadın savaş pilotu kimdir?",
-choice1: "",
+choice1: "Bedriye Tahir Gökmen",
 choice2: "Sabiha Gökçen",
-choice3: "",
-choice4: "",
+choice3: "Yıldız Eruçman",
+choice4: "Raymonde de Laroche",
 answer: 1
 },
 {
     question: "Türkiyenin hapis cezası alan ilk bilgisayar korsanı kimdir?",
 choice1: "Tamer Şahin",
-choice2: "",
-choice3: "",
-choice4: "",
+choice2: "Ali Kaya",
+choice3: "Mehmet Demirci",
+choice4: "Atakan Arslan",
 answer: 0
 },
 {
@@ -80,90 +80,90 @@ answer: 3
 },
 {
     question: "Yedi renkten oluşan gökkuşağının ortasındaki renk hangisidir?",
-choice1: "",
-choice2: "",
+choice1: "Turuncu",
+choice2: "Sarı",
 choice3: "Yeşil",
-choice4: "",
+choice4: "Mavi",
 answer: 2
 },
 {
     question: "Hollanda'nın başkenti neresidir?",
-choice1: "",
-choice2: "",
-choice3: "",
+choice1: "Groningen",
+choice2: "Lahey",
+choice3: "Rotterdam",
 choice4: "Amsterdam",
 answer: 3
 },
 {
     question: "Türkiye'nin en büyük dağı hangisidir?",
 choice1: "Ağrı Dağı",
-choice2: "",
-choice3: "",
-choice4: "",
+choice2: "Süphan",
+choice3: "Kaçkar Dağı",
+choice4: "Erciyes",
 answer: 0
 },
 {
     question: "Türkiye'nin en büyük gölü hangisidir?",
 choice1: "Van Gölü",
-choice2: "",
-choice3: "",
-choice4: "",
+choice2: "İznik Gölü",
+choice3: "Burdur Gölü",
+choice4: "Acıgöl",
 answer: 0
 },
 {
     question: "Türk silahlı kuvvetlerinde hangi rütbe daha yüksektir?",
-choice1: "",
-choice2: "Korgeneral",
-choice3: "",
-choice4: "",
+choice1: "Tümgeneral",
+choice2: "Orgeneral",
+choice3: "Tuğgeneral",
+choice4: "Korgeneral",
 answer: 1
 },
 {
     question: "Kimler kepenek giyer?",
-choice1: "",
-choice2: "",
-choice3: "Çoban",
-choice4: "",
+choice1: "İmamlar",
+choice2: "Çiftçiler",
+choice3: "Çobanlar",
+choice4: "Oduncular",
 answer: 2
 },
 {
     question: "Yazları sıcak ve kurak; kışları ise soğuk ve karlıdır. Aşağıdakilerden hangisidir?",
-choice1: "Karasal İklim",
-choice2: "",
-choice3: "",
-choice4: "",
+choice1: "Karasal İklimi",
+choice2: "Akdeniz İklimi",
+choice3: "Karadeniz İklimi",
+choice4: "Muson İklimi",
 answer: 0
 },
 {
     question: "Çocuk hakları günü hangi tarihte kutlanılmaktadır?",
-choice1: "",
-choice2: "",
-choice3: "",
+choice1: "20 Eylül",
+choice2: "22 Eylül",
+choice3: "22 Kasım",
 choice4: "20 Kasım",
 answer: 3
 },
 {
     question: "Bir elektrik devresinde direnç hangi harfle gösterilir?",
-choice1: "",
-choice2: "",
-choice3: "",
+choice1: "D",
+choice2: "W",
+choice3: "E",
 choice4: "R",
 answer: 3
 },
 {
     question: "İstiklal Marşı hangi yıl yazılmıştır?",
-choice1: "",
-choice2: "",
+choice1: "1919",
+choice2: "1920",
 choice3: "1921",
-choice4: "",
+choice4: "1922",
 answer: 2
 },
 {
     question: "Kuyucaklı Yusuf adlı eser kime aittir?",
-choice1: "",
-choice2: "",
+choice1: "Ahmet Hamdi Tanpınar",
+choice2: "Orhan Pamuk",
 choice3: "Sabahattin Ali",
-choice4: "",
+choice4: "Sait Faik Abasıyanık",
 answer: 2
 },
 {
@@ -177,9 +177,9 @@ answer: 3
 {
      question: "Fatih Sultan Mehmet’in babası kimdir?",
 choice1: "2. Murat",
-choice2: "",
-choice3: "",
-choice4: "",
+choice2: "1. Murat",
+choice3: "Abdulhamid",
+choice4: "Abdulmecid",
 answer: 0
 },
 {
@@ -187,15 +187,15 @@ answer: 0
 choice1: "H2O",
 choice2: "Ca",
 choice3: "He",
-choice4: "O",
+choice4: "H",
 answer: 0
 },
 {
     question: "Aya ilk defa kim ayak basan kişi kimdir?",
-choice1: "",
+choice1: "Buzz Aldrin",
 choice2: "Neil Armstrong",
-choice3: "",
-choice4: "",
+choice3: "Charles Conrad ",
+choice4: "Alan Bean",
 answer: 1
 },
 {
@@ -209,33 +209,33 @@ answer: 2
 {
     question: "“Sinekli Bakkal” romanının yazarı aşağıdakilerden hangisidir?",
 choice1: "Halide Edip Adıvar",
-choice2: "",
-choice3: "",
-choice4: "",
+choice2: "Namık Kemal",
+choice3: "Oğuz Atay",
+choice4: "Kemal Tahir",
 answer: 0
 },
 {
     question: "Yazıyı icat exen ilk çağ uygarlığı hangisidir?",
-choice1: "",
-choice2: "",
-choice3: "",
+choice1: "Hititler",
+choice2: "Lidyalılar",
+choice3: "Babiller",
 choice4: "Sümerler",
 answer: 3
 },
 {
     question: "Mustafa Kemal Atatürk'ün nüfusa kayıtlı olduğu il hangisidir?",
-choice1: "",
-choice2: "",
-choice3: "",
+choice1: "Selanik",
+choice2: "Ankara",
+choice3: "Şanlıurfa",
 choice4: "Gaziantep",
 answer: 3
 },
 {
     question: "Hangi ülkenin iki tane başkenti vardır?",
-choice1: "",
-choice2: "",
+choice1: "Kuzey Afrika",
+choice2: "Hindistan",
 choice3: "Güney Afrika",
-choice4: "",
+choice4: "Japonya",
 answer: 2
 },
 // İngilizce sorular //

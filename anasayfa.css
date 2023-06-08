@@ -50,7 +50,7 @@
   text-align: center;
     padding: 19px;
     font-size: 20px;
-    background-color: #ff8c00;
+    background-color: #ff9b20;
     color: white;
     border-radius: 10px 10px 0px 0px;
     height: auto;
@@ -100,8 +100,8 @@ a:hover {
       font-size: 1.1em;
       color: #000000;
       font-weight: 500;
-      margin-top: 330px;
-      margin-left: -85px;
+      margin-top: 26px;
+      margin-left: 290px;
       transition: .5s;
 }
 

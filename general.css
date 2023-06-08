@@ -194,7 +194,7 @@ footer {
     position: relative;
     left: 0;
     right: 0;
-    background: #ff8c00;
+    background: #ff9b20;
     height: auto;
     width: 100%;
     font-family: 'Poppins','sans-serif';
@@ -226,7 +226,7 @@ footer {
   }
   
   footer .footer-bottom {
-    background: #945100;
+    background: #a56414;
     width: 100% ;
     padding: 20px 0;
     text-align: center;
