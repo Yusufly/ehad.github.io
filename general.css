@@ -12,6 +12,7 @@
     margin-top: 100px;
     padding: 20px;
     background-color: #f1f1f1;
+    margin: 125px;
 }
 
 body {
@@ -246,3 +247,14 @@ footer {
     font-weight: 200;
   }
   /* downBar END */
+
+  .ads {
+    margin-top: -2523px;
+    position: fixed;
+    margin-left: 87%;
+    
+  }
+
+  .ads img {
+    width: 250px;
+  }
