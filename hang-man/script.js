@@ -140,7 +140,9 @@ const initializer = () => {
         drawMan(count);
         //Count==6 because head,body,left arm, right arm,left leg,right leg
         if (count == 6) {
-          resultText.innerHTML = `<h2 class='lose-msg'>You Lose!!</h2><p>The word was <span>${chosenWord}</span></p>`;
+          resultText.innerHTML = `<h2 class='lose-msg'>Kaybettin!!</h2>
+          <p>Sen artık bir <strong>KATİLSİN</strong></p>
+          <p>Kelime aslında... <span>${chosenWord}</span></p>`;
           blocker();
         }
       }

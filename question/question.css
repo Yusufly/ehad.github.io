@@ -17,6 +17,11 @@ body {
     width: auto;
 }
 
+body {
+    background-image:url(https://media.discordapp.net/attachments/1096791021460914276/1116793767794593842/wallpaperbetter.jpg?width=1600&height=715);
+    background-repeat: no-repeat;
+}
+
 /*Start Section*/
 #start {
     height: 70px;
